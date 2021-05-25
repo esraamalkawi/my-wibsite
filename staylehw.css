@@ -1,0 +1,49 @@
+.header {
+background-color: #d1d9d9;
+text-align: center;
+}
+
+.h1{
+    background-color: #d1d9d9;
+    font-family: fantasy;
+    
+}
+
+.h2{
+    border-color: #f29191;
+    border-style: inset;
+    font-size: x-large;
+    border-block-end-width: 7px;
+    font-style: italic;
+    font-family: monospace;
+}
+
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.h3{
+    font-size: larger;
+    font-style: oblique;
+}
+.ul.a{
+    list-style-type: circle;
+}
+.list{
+    margin: auto;
+    width: 300px;
+}
+
+.button{
+  background-color: #30475e;
+  border: none;
+  color: #f05454;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
